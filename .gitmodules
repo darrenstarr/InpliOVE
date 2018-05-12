@@ -1,0 +1,15 @@
+[submodule "Modules/VtNetCore"]
+	path = Modules/VtNetCore
+	url = https://github.com/darrenstarr/VtNetCore.git
+[submodule "Modules/SSH.NET"]
+	path = Modules/SSH.NET
+	url = https://github.com/darrenstarr/SSH.NET.git
+[submodule "Modules/VtConnect"]
+	path = Modules/VtConnect
+	url = https://github.com/darrenstarr/VtConnect.git
+[submodule "Modules/SshNetCryptography"]
+	path = Modules/SshNetCryptography
+	url = https://github.com/darrenstarr/Cryptography.git
+[submodule "Modules/VtNetCore.UWP"]
+	path = Modules/VtNetCore.UWP
+	url = https://github.com/darrenstarr/VtNetCore.UWP.git
